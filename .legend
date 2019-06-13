@@ -1,0 +1,8 @@
+//Announcement Type
+
+1	:	Announce to All
+2	:	Announce to CSG
+3	:	Announce to Bulk
+4	:	Announce to Individual
+5	:	Direct SMS
+6	:	Announce to Department
